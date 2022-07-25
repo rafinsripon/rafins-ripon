@@ -12,8 +12,8 @@ const About = () => {
             <div className="col-md-6">
               <div className="common_title mb-55">
                 <div className="border_left"></div>
-                <span>Lorem ipsum dolor sit.</span>
-                <h2>my Testimonial</h2>
+                <span>Experience About.</span>
+                <h2>My About</h2>
               </div>
               <div className="about_img">
                 <img src={aboutImg} alt="Img Not Found" />
